@@ -2,3 +2,5 @@ Hola soy un nuevo
 proyecto de git 
 y tengo 28 años, naci
 hoy mismo :3
+
+Hoy hablaremos de su vida
